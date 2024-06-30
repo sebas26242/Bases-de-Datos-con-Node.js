@@ -1,0 +1,16 @@
+grupo_1
+Docente: Ing. Ervin Ismael Montes Tellez
+
+Alumnos: 
+Josnar Efrain Cruz Romero - 22-06058-1
+Sebastian Antonios Trujillo Zepeda - 22-10390-1
+
+Investigation:
+
+1. Investigar y escribir una breve descripción sobre lo que es un RDBMS.
+
+Un Sistema de Gestión de Bases de Datos Relacionales (RDBMS, por sus siglas en inglés) es un software diseñado para gestionar bases de datos que almacenan datos en forma de tablas, las cuales están relacionadas entre sí a través de claves primarias y foráneas. Los RDBMS utilizan el lenguaje SQL (Structured Query Language) para realizar operaciones sobre los datos, como insertar, actualizar, eliminar y consultar información. Las características principales de un RDBMS
+
+2. Investigar y escribir una breve descripción sobre lo que es una base de datos 
+
+Las bases de datos NoSQL (Not Only SQL) son sistemas de gestión de bases de datos diseñados para manejar grandes volúmenes de datos, alta velocidad de lectura y escritura, y estructuras de datos no tabulares. A diferencia de las bases de datos relacionales (RDBMS), las bases de datos NoSQL no utilizan el modelo de tablas con filas y columnas. En cambio, pueden utilizar varios modelos de datos, como:
